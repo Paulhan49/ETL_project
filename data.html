@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+<html lang="en-us">
+  <head>
+​
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+​
+    <title>Data</title>
+​  <link rel="stylesheet" href="asets/css/reset.css">
+	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+    
+	<link rel="stylesheet" type="text/css" href="assets/css/style.css">
+​
+  </head>
+​
+  <body>
+    <!-- nav bar -->
+	<div class="navigation">
+	  <nav class="navbar fixed-top navbar-expand-lg navbar-light">
+        <a class="navbar-brand" href="index.html">Home</a>
+        <button class="navbar-toggler border" type="button" data-toggle="collapse" data-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
+          <span class="navbar-toggler-icon"></span>
+        </button>
+​
+        <!-- links -->
+        <div class="collapse navbar-collapse" id="navbarNavDropdown">
+          <ul class="navbar-nav ml-auto">
+            <li class="nav-item dropdown">
+              <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown" id="navbarDropdownMenuLink" role="button" aria-haspopup="true" aria-expanded="false">Menu</a>
+              <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
+                <a class="dropdown-item" href="proposal.html">Project Proposal</a>
+                <a class="dropdown-item" href="ERD.html">ERD</a>
+              </div>
+            <li class="nav-item">
+			  <a class="nav-link" href="data.html">Data</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="https://github.com/JonZagorski/etl-project" target="_blank">GitHub</a>
+            </li>
+          </ul>
+        </div>
+      </nav>
+	</div>
+​
+  <!-- summary box -->
+    <div class="container">
+      <section class="row">
+        <div class="col-lg-12 col-md-12">
+          <div class="description-content">
+            <h1 class="description-header">Data Sources and Code</h1>
+                <hr>
+                <p>
+                  Each data source and the method in which the data was obtained is described below for each respective website. 
+                </p>
+            
+          </div>
+        </div>
+      </section>
+    </div>
+
+    <!--CARDS-->
+    <div class="card">
+        <div class="card-header">
+            NFL Team Standings
+        </div>
+        <div class="card-body">
+            <p class="card-text">Data for the wins, losses, and ties were scraped for each team in the NFL website for tables for the years 2015 through 2019. Data for each year can be accessed by replacing the year in the URL. The information for each team was contained in one table per year but in the same location across all years. The data was then cleaned to extract only the information needed.  Each year was extracted into its own CSV file and then combined into a database. The following information was updated:</p>
+            <ul class="card-list">
+              <li>Team names renamed across all years</li>
+              <li>All columns dropped except for team name, wins, losses, and ties</li>
+              <li>The wins, losses and ties columns were renamed to correlate with the year associated with the information</li>
+              <li>Pushed dictionary to MongoDB</li>
+            </ul>
+            
+            <a href="https://www.nfl.com/standings/league/2019/reg/" target="_blank" class="btn btn-primary">See 2019 Standings</a>
+            <a href="https://github.com/JonZagorski/etl-project/tree/main/records" target="_blank" class="btn btn-primary">See Data</a>
+        </div>
+    </div>
+    <br>
+
+    <div class="card">
+      <div class="card-header">
+          PFR Attendance Data
+      </div>
+      <div class="card-body">
+          <p class="card-text">Data for attendance records (total, home, and away) were scraped for tables for the years 2015 through 2019. Data for each year can be accessed by replacing the year in the URL. The information for each team was contained in one table per year but in the same location across all years. The data was then cleaned to extract only the information needed. Each year was extracted into its own CSV file and then combined into a database.  The following information was updated:</p>
+          <ul class="card-list">
+            <li>All columns were dropped except for the team name and attendance columns (Total, Home, & Away)</li>
+            <li>All columns dropped except for team name, wins, losses, and ties</li>
+            <li>The attendance columns were then renamed so each one corresponded with the correct year</li>
+          </ul>
+          
+          <a href="https://www.pro-football-reference.com/years/2019/attendance.htm" target="_blank" class="btn btn-primary">See 2019 Attendance</a>
+          <a href="https://github.com/JonZagorski/etl-project/tree/main/attendance_scrape" target="_blank" class="btn btn-primary">See Data</a>
+      </div>
+  </div>
+  <br>
+
+  <div class="card">
+    <div class="card-header">
+        PFR Team Data
+    </div>
+    <div class="card-body">
+        <p class="card-text">Data for team information was scraped by replacing the team abbreviation in the URL. The information needed was saved in to a dictionary and then pushed to MongoDB.  The following information was updated:</p>
+        <ul class="card-list">
+          <li>Team Abbreviations table built in Pandas</li>
+          <li>Extracted data by replacing URL team abbreviation</li>
+          <li>Data pushed to MongoDB</li>
+        </ul>
+        
+        <a href="https://www.pro-football-reference.com/teams/cle/2019.htm" target="_blank" class="btn btn-primary">See 2019 Browns Team Data</a>
+        <a href="https://github.com/JonZagorski/etl-project/tree/main/team_info" target="_blank" class="btn btn-primary">See Data</a>
+    </div>
+</div>
+<br>
+​
+    <!-- footer -->
+    <footer>
+      <div class="footer">ETL Project by Kimberly Gore, Poyuan Han, Jon Zagorski, and Tana Zimmer<br>DataViz 2020</div>
+    </footer>
+
+
+
+	<!-- Bootstrap scripts -->
+    <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
+  </body>
+​
+</html>

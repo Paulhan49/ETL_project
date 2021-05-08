@@ -1,0 +1,161 @@
+_id,year,team,coach,stadium
+5f8bd5bc6c2c14af1fbea21c,2015,Buffalo Bills,Rex Ryan,Ralph Wilson Stadium
+5f8bd5c66c2c14af1fbea21d,2016,Buffalo Bills,Anthony Lynn,New Era Field
+5f8bd5ce6c2c14af1fbea21e,2017,Buffalo Bills,Sean McDermott,Bob Babich
+5f8bd5d56c2c14af1fbea21f,2018,Buffalo Bills,Sean McDermott,New Era Field
+5f8bd5dd6c2c14af1fbea220,2019,Buffalo Bills,Sean McDermott,Bob Babich
+5f8bd5eb6c2c14af1fbea221,2015,New England Patriots,Bill Belichick,Josh Boyer
+5f8bd5f26c2c14af1fbea222,2016,New England Patriots,Bill Belichick,Josh Boyer
+5f8bd5f96c2c14af1fbea223,2017,New England Patriots,Bill Belichick,Josh Boyer
+5f8bd6006c2c14af1fbea224,2018,New England Patriots,Bill Belichick,Gillette Stadium
+5f8bd6076c2c14af1fbea225,2019,New England Patriots,Bill Belichick,Gillette Stadium
+5f8bd6126c2c14af1fbea226,2015,Miami Dolphins,Joe Philbin,Sun Life Stadium
+5f8bd6196c2c14af1fbea227,2016,Miami Dolphins,Adam Gase,Lou Anarumo
+5f8bd61f6c2c14af1fbea228,2017,Miami Dolphins,Adam Gase,Hard Rock Stadium
+5f8bd6276c2c14af1fbea229,2018,Miami Dolphins,Adam Gase,Hard Rock Stadium
+5f8bd62f6c2c14af1fbea22a,2019,Miami Dolphins,Brian Flores,Hard Rock Stadium
+5f8bd6406c2c14af1fbea22b,2015,New York Jets,Todd Bowles,Woody Johnson
+5f8bd6486c2c14af1fbea22c,2016,New York Jets,Todd Bowles,Woody Johnson
+5f8bd6506c2c14af1fbea22d,2017,New York Jets,Todd Bowles,MetLife Stadium
+5f8bd6566c2c14af1fbea22e,2018,New York Jets,Todd Bowles,MetLife Stadium
+5f8bd65c6c2c14af1fbea22f,2019,New York Jets,Adam Gase,MetLife Stadium
+5f8bd66a6c2c14af1fbea230,2015,Tennessee Titans,Ken Whisenhunt,Nissan Stadium
+5f8bd6776c2c14af1fbea231,2016,Tennessee Titans,Mike Mularkey,Nissan Stadium
+5f8bd6816c2c14af1fbea232,2017,Tennessee Titans,Mike Mularkey,Sylvester Croom
+5f8bd68b6c2c14af1fbea233,2018,Tennessee Titans,Mike Vrabel,Nissan Stadium
+5f8bd6966c2c14af1fbea234,2019,Tennessee Titans,Mike Vrabel,Todd Downing
+5f8bd6a66c2c14af1fbea235,2015,Indianapolis Colts,Chuck Pagano,Lucas Oil Stadium
+5f8bd6af6c2c14af1fbea236,2016,Indianapolis Colts,Chuck Pagano,Lucas Oil Stadium
+5f8bd6b76c2c14af1fbea237,2017,Indianapolis Colts,Chuck Pagano,Lucas Oil Stadium
+5f8bd6be6c2c14af1fbea238,2018,Indianapolis Colts,Frank Reich,Alan Williams
+5f8bd6c66c2c14af1fbea239,2019,Indianapolis Colts,Frank Reich,Lucas Oil Stadium
+5f8bd6d36c2c14af1fbea23a,2015,Houston Texans,"Bill O'Brien",Tim Kelly
+5f8bd6d96c2c14af1fbea23b,2016,Houston Texans,"Bill O'Brien",Tim Kelly
+5f8bd6e16c2c14af1fbea23c,2017,Houston Texans,"Bill O'Brien",Bob McNair
+5f8bd6e76c2c14af1fbea23d,2018,Houston Texans,"Bill O'Brien",NRG Stadium
+5f8bd6ef6c2c14af1fbea23e,2019,Houston Texans,"Bill O'Brien",John Pagano
+5f8bd6fc6c2c14af1fbea23f,2015,Jacksonville Jaguars,Gus Bradley,EverBank Field
+5f8bd7046c2c14af1fbea240,2016,Jacksonville Jaguars,Doug Marrone,EverBank Field
+5f8bd70c6c2c14af1fbea241,2017,Jacksonville Jaguars,Doug Marrone,Perry Fewell
+5f8bd7136c2c14af1fbea242,2018,Jacksonville Jaguars,Doug Marrone,TIAA Bank Stadium
+5f8bd71a6c2c14af1fbea243,2019,Jacksonville Jaguars,Doug Marrone,TIAA Bank Stadium
+5f8bd7286c2c14af1fbea244,2015,Pittsburgh Steelers,Mike Tomlin,Randy Fichtner
+5f8bd72f6c2c14af1fbea245,2016,Pittsburgh Steelers,Mike Tomlin,Randy Fichtner
+5f8bd7356c2c14af1fbea246,2017,Pittsburgh Steelers,Mike Tomlin,Randy Fichtner
+5f8bd73b6c2c14af1fbea247,2018,Pittsburgh Steelers,Mike Tomlin,Heinz Field
+5f8bd7416c2c14af1fbea248,2019,Pittsburgh Steelers,Mike Tomlin,Heinz Field
+5f8bd74f6c2c14af1fbea249,2015,Cleveland Browns,Mike Pettine,FirstEnergy Stadium
+5f8bd7566c2c14af1fbea24a,2016,Cleveland Browns,Hue Jackson,Jimmy Haslam III
+5f8bd75d6c2c14af1fbea24b,2017,Cleveland Browns,Hue Jackson,Jimmy Haslam III
+5f8bd7676c2c14af1fbea24c,2018,Cleveland Browns,Hue Jackson,FirstEnergy Stadium
+5f8bd76e6c2c14af1fbea24d,2019,Cleveland Browns,Freddie Kitchens,FirstEnergy Stadium
+5f8bd77b6c2c14af1fbea24e,2015,Baltimore Ravens,John Harbaugh,M&T Bank Stadium
+5f8bd7816c2c14af1fbea24f,2016,Baltimore Ravens,John Harbaugh,M&T Bank Stadium
+5f8bd7886c2c14af1fbea250,2017,Baltimore Ravens,John Harbaugh,M&T Bank Stadium
+5f8bd78f6c2c14af1fbea251,2018,Baltimore Ravens,John Harbaugh,Greg Roman
+5f8bd7966c2c14af1fbea252,2019,Baltimore Ravens,John Harbaugh,M&T Bank Stadium
+5f8bd7a36c2c14af1fbea253,2015,Cincinnati Bengals,Marvin Lewis,Bob Bratkowski
+5f8bd7aa6c2c14af1fbea254,2016,Cincinnati Bengals,Marvin Lewis,Paul Brown Stadium
+5f8bd7b16c2c14af1fbea255,2017,Cincinnati Bengals,Marvin Lewis,Paul Brown Stadium
+5f8bd7b76c2c14af1fbea256,2018,Cincinnati Bengals,Marvin Lewis,Paul Brown Stadium
+5f8bd7bf6c2c14af1fbea257,2019,Cincinnati Bengals,Zac Taylor,Paul Brown Stadium
+5f8bd7cd6c2c14af1fbea258,2015,Kansas City Chiefs,Andy Reid,Eric Bieniemy
+5f8bd7d56c2c14af1fbea259,2016,Kansas City Chiefs,Andy Reid,Eric Bieniemy
+5f8bd7dc6c2c14af1fbea25a,2017,Kansas City Chiefs,Andy Reid,Eric Bieniemy
+5f8bd7e36c2c14af1fbea25b,2018,Kansas City Chiefs,Andy Reid,Emmitt Thomas
+5f8bd7ea6c2c14af1fbea25c,2019,Kansas City Chiefs,Andy Reid,Arrowhead Stadium
+5f8bd7f96c2c14af1fbea25d,2015,Oakland Raiders,Jack Del Rio,O.co Coliseum
+5f8bd7ff6c2c14af1fbea25e,2016,Oakland Raiders,Jack Del Rio,Todd Downing
+5f8bd8066c2c14af1fbea25f,2017,Oakland Raiders,Jack Del Rio,Oakland-Alameda County Coliseum
+5f8bd80e6c2c14af1fbea260,2018,Oakland Raiders,Jon Gruden,Oakland-Alameda County Coliseum
+5f8bd8146c2c14af1fbea261,2019,Oakland Raiders,Jon Gruden,Ring Central Coliseum
+5f8bd8216c2c14af1fbea262,2015,Denver Broncos,Gary Kubiak,Brian Callahan
+5f8bd8276c2c14af1fbea263,2016,Denver Broncos,Gary Kubiak,Sports Authority Field at Mile High
+5f8bd82e6c2c14af1fbea264,2017,Denver Broncos,Vance Joseph,Sports Authority Field at Mile High
+5f8bd8356c2c14af1fbea265,2018,Denver Broncos,Vance Joseph,Sports Authority Field at Mile High
+5f8bd83b6c2c14af1fbea266,2019,Denver Broncos,Vic Fangio,Empower Field at Mile High
+5f8bd8476c2c14af1fbea267,2015,San Diego Chargers,Mike McCoy,Qualcomm Stadium
+5f8bd84d6c2c14af1fbea268,2016,San Diego Chargers,Mike McCoy,Qualcomm Stadium
+5f8bd8546c2c14af1fbea269,2017,Los Angeles Chargers,Anthony Lynn,StubHub Center
+5f8bd85a6c2c14af1fbea26a,2018,Los Angeles Chargers,Anthony Lynn,Richard Smith
+5f8bd8606c2c14af1fbea26b,2019,Los Angeles Chargers,Anthony Lynn,StubHub Center
+5f8bd86d6c2c14af1fbea26c,2015,Dallas Cowboys,Jason Garrett,AT&T Stadium
+5f8bd8736c2c14af1fbea26d,2016,Dallas Cowboys,Jason Garrett,Matt Eberflus
+5f8bd8796c2c14af1fbea26e,2017,Dallas Cowboys,Jason Garrett,AT&T Stadium
+5f8bd87f6c2c14af1fbea26f,2018,Dallas Cowboys,Jason Garrett,Kellen Moore
+5f8bd8866c2c14af1fbea270,2019,Dallas Cowboys,Jason Garrett,AT&T Stadium
+5f8bd8926c2c14af1fbea271,2015,Philadelphia Eagles,Pat Shurmur,Lincoln Financial Field
+5f8bd8996c2c14af1fbea272,2016,Philadelphia Eagles,Doug Pederson,Lincoln Financial Field
+5f8bd8a16c2c14af1fbea273,2017,Philadelphia Eagles,Doug Pederson,John DeFilippo
+5f8bd8a86c2c14af1fbea274,2018,Philadelphia Eagles,Doug Pederson,Ken Flajole
+5f8bd8b06c2c14af1fbea275,2019,Philadelphia Eagles,Doug Pederson,Matt Burke
+5f8bd8bc6c2c14af1fbea276,2015,Washington Redskins,Jay Gruden,Bill Callahan
+5f8bd8c46c2c14af1fbea277,2016,Washington Redskins,Jay Gruden,FedExField
+5f8bd8cb6c2c14af1fbea278,2017,Washington Redskins,Jay Gruden,FedExField
+5f8bd8d16c2c14af1fbea279,2018,Washington Redskins,Jay Gruden,FedExField
+5f8bd8d76c2c14af1fbea27a,2019,Washington Redskins,Jay Gruden,FedExField
+5f8bd8e36c2c14af1fbea27b,2015,New York Giants,Tom Coughlin,MetLife Stadium
+5f8bd8e96c2c14af1fbea27c,2016,New York Giants,Ben McAdoo,Frank Cignetti
+5f8bd8ef6c2c14af1fbea27d,2017,New York Giants,Steve Spagnuolo,MetLife Stadium
+5f8bd8f56c2c14af1fbea27e,2018,New York Giants,Pat Shurmur,MetLife Stadium
+5f8bd8fb6c2c14af1fbea27f,2019,New York Giants,Pat Shurmur,MetLife Stadium
+5f8bd9076c2c14af1fbea280,2015,Carolina Panthers,Ron Rivera,Al Holcomb
+5f8bd90d6c2c14af1fbea281,2016,Carolina Panthers,Ron Rivera,Bank of America Stadium
+5f8bd9136c2c14af1fbea282,2017,Carolina Panthers,Ron Rivera,Al Holcomb
+5f8bd9196c2c14af1fbea283,2018,Carolina Panthers,Ron Rivera,Bank of America Stadium
+5f8bd91f6c2c14af1fbea284,2019,Carolina Panthers,Perry Fewell,Bank of America Stadium
+5f8bd92a6c2c14af1fbea285,2015,New Orleans Saints,Sean Payton,Mercedes-Benz Superdome
+5f8bd9306c2c14af1fbea286,2016,New Orleans Saints,Sean Payton,Mercedes-Benz Superdome
+5f8bd9386c2c14af1fbea287,2017,New Orleans Saints,Sean Payton,Joe Brady
+5f8bd93e6c2c14af1fbea288,2018,New Orleans Saints,Sean Payton,Joe Brady
+5f8bd9446c2c14af1fbea289,2019,New Orleans Saints,Sean Payton,Dan Campbell
+5f8bd9506c2c14af1fbea28a,2015,Tampa Bay Buccaneers,Lovie Smith,Raymond James Stadium
+5f8bd9566c2c14af1fbea28b,2016,Tampa Bay Buccaneers,Dirk Koetter,Raymond James Stadium
+5f8bd95c6c2c14af1fbea28c,2017,Tampa Bay Buccaneers,Dirk Koetter,Raymond James Stadium
+5f8bd9636c2c14af1fbea28d,2018,Tampa Bay Buccaneers,Dirk Koetter,Raymond James Stadium
+5f8bd9696c2c14af1fbea28e,2019,Tampa Bay Buccaneers,Bruce Arians,Raymond James Stadium
+5f8bd9756c2c14af1fbea28f,2015,Atlanta Falcons,Dan Quinn,Georgia Dome
+5f8bd97b6c2c14af1fbea290,2016,Atlanta Falcons,Dan Quinn,Matt LaFleur
+5f8bd9816c2c14af1fbea291,2017,Atlanta Falcons,Dan Quinn,Raheem Morris
+5f8bd9876c2c14af1fbea292,2018,Atlanta Falcons,Dan Quinn,Mercedes-Benz Stadium
+5f8bd98e6c2c14af1fbea293,2019,Atlanta Falcons,Dan Quinn,Mercedes-Benz Stadium
+5f8bd9996c2c14af1fbea294,2015,Green Bay Packers,Mike McCarthy,Tom Clements
+5f8bd99f6c2c14af1fbea295,2016,Green Bay Packers,Mike McCarthy,Tom Clements
+5f8bd9a56c2c14af1fbea296,2017,Green Bay Packers,Mike McCarthy,Lambeau Field
+5f8bd9ab6c2c14af1fbea297,2018,Green Bay Packers,Joe Philbin,Lambeau Field
+5f8bd9b16c2c14af1fbea298,2019,Green Bay Packers,Matt LaFleur,Lambeau Field
+5f8bd9bd6c2c14af1fbea299,2015,Chicago Bears,John Fox,Soldier Field
+5f8bd9c36c2c14af1fbea29a,2016,Chicago Bears,John Fox,Soldier Field
+5f8bd9c96c2c14af1fbea29b,2017,Chicago Bears,John Fox,Soldier Field
+5f8bd9cf6c2c14af1fbea29c,2018,Chicago Bears,Matt Nagy,Brad Childress
+5f8bd9d56c2c14af1fbea29d,2019,Chicago Bears,Matt Nagy,Soldier Field
+5f8bd9e16c2c14af1fbea29e,2015,Detroit Lions,Jim Caldwell,Ford Field
+5f8bd9e86c2c14af1fbea29f,2016,Detroit Lions,Jim Caldwell,Brian Callahan
+5f8bd9ee6c2c14af1fbea2a0,2017,Detroit Lions,Jim Caldwell,Ford Field
+5f8bd9f56c2c14af1fbea2a1,2018,Detroit Lions,Matt Patricia,Ford Field
+5f8bd9fb6c2c14af1fbea2a2,2019,Detroit Lions,Matt Patricia,Ford Field
+5f8bda076c2c14af1fbea2a3,2015,Minnesota Vikings,Mike Zimmer,Jeff Davidson
+5f8bda0e6c2c14af1fbea2a4,2016,Minnesota Vikings,Mike Zimmer,U.S. Bank Stadium
+5f8bda146c2c14af1fbea2a5,2017,Minnesota Vikings,Mike Zimmer,Jerry Gray
+5f8bda1b6c2c14af1fbea2a6,2018,Minnesota Vikings,Mike Zimmer,U.S. Bank Stadium
+5f8bda226c2c14af1fbea2a7,2019,Minnesota Vikings,Mike Zimmer,Rick Dennison
+5f8bda2f6c2c14af1fbea2a8,2015,Seattle Seahawks,Pete Carroll,Kippy Brown
+5f8bda356c2c14af1fbea2a9,2016,Seattle Seahawks,Pete Carroll,Tom Cable
+5f8bda3c6c2c14af1fbea2aa,2017,Seattle Seahawks,Pete Carroll,CenturyLink Field
+5f8bda426c2c14af1fbea2ab,2018,Seattle Seahawks,Pete Carroll,Carl Smith
+5f8bda486c2c14af1fbea2ac,2019,Seattle Seahawks,Pete Carroll,Mike Solari
+5f8bda546c2c14af1fbea2ad,2015,St. Louis Rams,Jeff Fisher,Edward Jones Dome
+5f8bda5a6c2c14af1fbea2ae,2016,Los Angeles Rams,John Fassel,Los Angeles Memorial Coliseum
+5f8bda616c2c14af1fbea2af,2017,Los Angeles Rams,Sean McVay,Joe Barry
+5f8bda686c2c14af1fbea2b0,2018,Los Angeles Rams,Sean McVay,Los Angeles Memorial Coliseum
+5f8bda6f6c2c14af1fbea2b1,2019,Los Angeles Rams,Sean McVay,Stan Kroenke
+5f8bda7b6c2c14af1fbea2b2,2015,Arizona Cardinals,Bruce Arians,Freddie Kitchens
+5f8bda826c2c14af1fbea2b3,2016,Arizona Cardinals,Bruce Arians,University of Phoenix Stadium
+5f8bda8a6c2c14af1fbea2b4,2017,Arizona Cardinals,Bruce Arians,University of Phoenix Stadium
+5f8bda936c2c14af1fbea2b5,2018,Arizona Cardinals,Steve Wilks,State Farm Stadium
+5f8bda9b6c2c14af1fbea2b6,2019,Arizona Cardinals,Kliff Kingsbury,Bill Bidwill
+5f8bdaae6c2c14af1fbea2b7,2015,San Francisco 49ers,Jim Tomsula,"Levi's Stadium"
+5f8bdab76c2c14af1fbea2b8,2016,San Francisco 49ers,Chip Kelly,"Levi's Stadium"
+5f8bdabd6c2c14af1fbea2b9,2017,San Francisco 49ers,Kyle Shanahan,John Lynch
+5f8bdac46c2c14af1fbea2ba,2018,San Francisco 49ers,Kyle Shanahan,John Lynch
+5f8bdaca6c2c14af1fbea2bb,2019,San Francisco 49ers,Kyle Shanahan,"Levi's Stadium"

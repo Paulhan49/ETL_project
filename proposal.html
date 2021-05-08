@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html lang="en-us">
+  <head>
+​
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+​
+    <title>Project Proposal</title>
+​  <link rel="stylesheet" href="asets/css/reset.css">
+	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+    
+	<link rel="stylesheet" type="text/css" href="assets/css/style.css">
+​
+  </head>
+​
+  <body>
+    <!-- nav bar -->
+	<div class="navigation">
+	  <nav class="navbar fixed-top navbar-expand-lg navbar-light">
+        <a class="navbar-brand" href="index.html">Home</a>
+        <button class="navbar-toggler border" type="button" data-toggle="collapse" data-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
+          <span class="navbar-toggler-icon"></span>
+        </button>
+​
+        <!-- links -->
+        <div class="collapse navbar-collapse" id="navbarNavDropdown">
+          <ul class="navbar-nav ml-auto">
+            <li class="nav-item dropdown">
+              <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown" id="navbarDropdownMenuLink" role="button" aria-haspopup="true" aria-expanded="false">Menu</a>
+              <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
+                <a class="dropdown-item" href="proposal.html">Project Proposal</a>
+                <a class="dropdown-item" href="ERD.html">ERD</a>
+              </div>
+            <li class="nav-item">
+			  <a class="nav-link" href="data.html">Data</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="https://github.com/JonZagorski/etl-project" target="_blank">GitHub</a>
+            </li>
+          </ul>
+        </div>
+      </nav>
+	</div>
+​
+  <!-- summary box -->
+    <div class="container">
+      <section class="row">
+        <div class="col-lg-12 col-md-12">
+          <div class="description-content">
+            <h1 class="description-header">Project Proposal</h1>
+            <h5>Group 3: Kimberly Gore, Poyuan Han, Jon Zagorski, Tana Zimmer</h5>
+                <hr>
+            <h6>Project Topic</h6>
+                <p>
+                    There has been much buzz amongst football fanatics on the subject of home attendance and team records.  Does the NFL favor teams with low attendance with the goal of boosting fan buy-in with a winning record?  
+                    Does this have any weight on the calls of the referees?  
+                    <br> <br>
+                    In order to answer some questions, we must first find out if there even is a correlation between record and attendance.  
+                    To do this, we will first scrap <a href="https://www.pro-football-reference.com/" target="_blank">PFR</a> for attendance and team data.  
+                    We will also scrape <a href="https://www.nfl.com/" target="_blank">NFL</a> for team records.  Looking at 2015-2019 season data, we should be able to see if there is a meaningful correlation or not.
+                </p>
+                <hr>
+            <h6>Distribution of Work</h6>
+            <h7>(click name to view GitHub)</h7>
+                <p>
+                  <a href="https://github.com/KGore12" target="_blank">Kimberly Gore</a>: <br>
+                    <ul>
+                      <li>Scraped PFR site for attendance records</li>
+                      <li>Data cleanup</li>
+                      <li>Documentation and content assistance for Data Sources and Code</li></ul>
+                <br></p>
+                <p>
+                  <a href="https://github.com/paulhan49" target="_blank">Poyuan Han</a>: <br>
+                  <ul>
+                    <li>Create Abbreviations Table in Pandas</li>
+                    <li>Scraped PFR site for attendance records</li>
+                    <li>Social Media Snippets</li></ul>
+                  
+                <br></p>
+                <p>
+                  <a href="https://github.com/JonZagorski" target="_blank">Jon Zagorski</a>: <br>
+                  <ul>
+                    <li>Scraped PFR site for team info</li>
+                    <li>Scraped NFL site for win/loss records</li>
+                    <li>Pushed data to Mongo</li>
+                    <li>Host AWS</li></ul>
+                <br></p>
+                <p>
+                  <a href="https://github.com/tanazimmer" target="_blank">Tana Zimmer</a>: <br>
+                    <ul>
+                      <li>HTML</li>
+                      <li>CSS</li>
+                      <li>Social Media Snippets</li>
+                      <li>ERD</li></ul>
+                </p>
+          </div>
+        </div>
+      </section>
+    </div>
+​
+    <!-- footer -->
+    <footer>
+      <div class="footer">ETL Project by Kimberly Gore, Poyuan Han, Jon Zagorski, and Tana Zimmer<br>DataViz 2020</div>
+    </footer>
+
+
+
+	<!-- Bootstrap scripts -->
+    <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
+  </body>
+​
+</html>
